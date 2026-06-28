@@ -168,4 +168,6 @@ By using it, you agree to:
 
 The author assumes no liability for any misuse or damage caused.
 
+> More Disclaimer You Can see the disclaimer on the cover of Jenderal92. You can check it [HERE !!!](https://github.com/Jenderal92/)
+> 
 ---
