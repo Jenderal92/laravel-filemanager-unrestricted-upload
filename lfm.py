@@ -40,7 +40,6 @@ def check_filemanager(url):
             '/file-manager/ckeditor',
             '/file-manager/tinymce5',
             '/file-manager/summernote',
-            '/admin/file-manager/tinymce',
         ]
         
         for path in paths:
